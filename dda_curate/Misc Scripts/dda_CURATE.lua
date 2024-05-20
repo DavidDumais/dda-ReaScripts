@@ -18,7 +18,7 @@
 Links:
   Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
   
-Provides:
+@Provides:
   [main] *.lua
 --]]
 
