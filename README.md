@@ -1,5 +1,5 @@
 # dda-ReaScripts
 
-Reaper scripts for game audio and sound library creation. /n
+Reaper scripts for game audio and sound library creation.
 Developed by David Dumais Audio
 
