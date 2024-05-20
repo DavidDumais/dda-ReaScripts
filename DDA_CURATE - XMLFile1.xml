@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="dda-ReaScripts">
+  <category name="dda_CURATE">
+    <reapack name="dda_CURATE.lua" type="script" desc="a set of reaper scripts for sound curation">
+      <metadata>
+        <author>David Dumais</author>
+        <version>1.0</version>
+        <link>https://github.com/DavidDumais/dda-ReaScripts/archive/refs/tags/CURATE.zip</link>
+        <description><![CDATA[
+          a set of reaper scripts for sound curation
+        ]]></description>
+      </metadata>
+      <version name="1.0" author="David Dumais" time="2024-05-20T00:00:00Z">
+        <source>https://github.com/DavidDumais/dda-ReaScripts/archive/refs/tags/CURATE.zip</source>
+      </version>
+    </reapack>
+  </category>
+  <metadata>
+    <description><![CDATA[
+      This is the ReaPack repository for David Dumais' REAPER scripts.
+    ]]></description>
+  </metadata>
+</index>
