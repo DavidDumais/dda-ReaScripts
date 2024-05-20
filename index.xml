@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="dda-ReaScripts" commit="1175b5b05e6e0b034cbc6ba424215d5d14051d2f">
+<index version="1" name="dda-ReaScripts" commit="d3a27bb0646272a392dab13f705caba93180cf5a">
   <category name="CURATE">
     <reapack name="dda_CURATE" type="script" desc="dda_CURATE">
       <metadata>
@@ -43,6 +43,9 @@
       </metadata>
       <version name="1.0.0" time="2024-05-20T20:40:26Z">
         <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f24995fe869a0fd75b93f2c4008be3ecdcd4c231/dda_curate/Misc%20Scripts/dda_CURATE.lua</source>
+      </version>
+      <version name="1.0.1" time="2024-05-20T21:26:23Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/d3a27bb0646272a392dab13f705caba93180cf5a/dda_curate/Misc%20Scripts/dda_CURATE.lua</source>
       </version>
     </reapack>
   </category>
