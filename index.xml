@@ -1,27 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="dda-ReaScripts" commit="4c0f153c791113e28666125bd493c4837fd12761">
-  <category name="Example">
-    <reapack name="dda_CURATE - Copy.lua" type="script" desc="dda_CURATE">
-      <metadata>
-        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
-{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
-\widowctrl\hyphauto
-
-{\pard \ql \f0 \sa180 \li0 \fi0 dda_CURATE \u8211- Instant sound curation for Reaper.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 dda_CURATE is a set of Reaper scripts to help you rate, organize, and categorize your sounds quickly and easily.\par}
-{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Rate your sounds using a color-coding system to quickly determine which ones you prefer and organize them together\par}
-{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Easily move sounds to child tracks to keep similar sounds together\par}
-{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Add unique description metadata to individual sounds as well as project metadata to all sounds in your collection\par}
-{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Reorder your sounds based on different variables including item length or rating to keep your project neat and tidy\par}
-{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Printout all project sound information in one easy-to-read, easy-to-copy-paste window\par}
-{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab And more!\sa180\par}
-}
-]]></description>
-      </metadata>
-      <version name="1.0.0" time="2024-05-20T20:21:47Z">
-        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/4c0f153c791113e28666125bd493c4837fd12761/Example/dda_CURATE%20-%20Copy.lua</source>
-      </version>
-    </reapack>
+<index version="1" name="dda-ReaScripts" commit="235be5c031001d2cda8978c34e76b18ee5a463d4">
+  <category name="dda_curate/Misc Scripts">
     <reapack name="dda_CURATE.lua" type="script" desc="dda_CURATE">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
@@ -39,8 +18,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0.0" time="2024-05-20T19:55:35Z">
-        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/01a5919ace0521a423ef1e229ef1c430fde360ee/Example/dda_CURATE.lua</source>
+      <version name="1.0.0" time="2024-05-20T20:23:36Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/235be5c031001d2cda8978c34e76b18ee5a463d4/dda_curate/Misc%20Scripts/dda_CURATE.lua</source>
       </version>
     </reapack>
   </category>
