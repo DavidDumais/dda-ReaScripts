@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <index version="1" name="dda-ReaScripts">
   <category name="dda_CURATE">
-    <reapack name="dda_CURATE.lua" type="script" desc="a set of reaper scripts for sound curation">
+    <reapack name="dda_CURATE" type="script" desc="a set of reaper scripts for sound curation">
       <metadata>
         <author>David Dumais</author>
         <version>1.0</version>
