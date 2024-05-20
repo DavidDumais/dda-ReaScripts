@@ -1,6 +1,6 @@
 --[[ 
 @Description: dda_CURATE
-@Version: 1.0.1
+@Version: 1.0.0
 @About:
   dda_CURATE – Instant sound curation for Reaper.
 
@@ -15,11 +15,10 @@
 
 @Author: David Dumais
 
-Links:
+@Links:
   Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
   
 @Provides:
-  [main] *.lua
---]]
+  --]]
 
 reaper.ShowMessageBox("dda_CURATE is a set of Reaper scripts to help you rate, organize, and categorize your sounds quickly and easily. \n\ndda_CURATE, dda_RATING, dda_METADATA, dda_CATEGORIZATION" , "nvk_TRACK", 0)
