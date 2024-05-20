@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index version="1" name="dda-ReaScripts" commit="235be5c031001d2cda8978c34e76b18ee5a463d4">
   <category name="CURATE">
-    <reapack name="dda_CURATE.lua" type="script" desc="dda_CURATE">
+    <reapack name="dda_CURATE" type="script" desc="dda_CURATE">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
