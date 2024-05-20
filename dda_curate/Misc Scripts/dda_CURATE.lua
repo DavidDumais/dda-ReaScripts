@@ -13,7 +13,7 @@ About:
     -  Printout all project sound information in one easy-to-read, easy-to-copy-paste window
     -  And more!
 
-Author: David Dumais
+@Author: David Dumais
 
 Links:
   Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
