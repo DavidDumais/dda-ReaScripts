@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="dda-ReaScripts" commit="d3a27bb0646272a392dab13f705caba93180cf5a">
+<index version="1" name="dda-ReaScripts" commit="c022ea0b604465223b4c2f3a8bae3d35170d88af">
   <category name="CURATE">
     <reapack name="dda_CURATE" type="script" desc="dda_CURATE">
       <metadata>
@@ -46,6 +46,20 @@
       </version>
       <version name="1.0.1" time="2024-05-20T21:26:23Z">
         <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/d3a27bb0646272a392dab13f705caba93180cf5a/dda_curate/Misc%20Scripts/dda_CURATE.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_ITEM - Select previous item, move cursor to item, preserve play state.lua" type="script" desc="dda_ITEM - Select previous item, move cursor to item, preserve play state">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 :\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.1" author=": David Dumais" time="2024-05-21T13:39:24Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/c022ea0b604465223b4c2f3a8bae3d35170d88af/dda_curate/Misc%20Scripts/dda_ITEM%20-%20Select%20previous%20item,%20move%20cursor%20to%20item,%20preserve%20play%20state.lua</source>
       </version>
     </reapack>
   </category>
