@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="dda-ReaScripts" commit="f1612fe5a23634ea54851f10c14cf81c61569d8a">
+<index version="1" name="dda-ReaScripts" commit="7ba7b49fc6280b14620542a8c08eb44f907c7bdd">
   <category name="CURATE">
     <reapack name="dda_CURATE" type="script" desc="dda_CURATE">
       <metadata>
@@ -336,14 +336,13 @@
     </reapack>
   </category>
   <category name="dda_curate/Misc Scripts">
-    <reapack name="dda_CURATE.lua" type="script" desc=": dda_CURATE">
+    <reapack name="dda_CURATE.lua" type="script" desc=": dda_CURATE – Instant sound curation for Reaper.">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
-{\pard \ql \f0 \sa180 \li0 \fi0 : dda_CURATE \u8211- Instant sound curation for Reaper.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 dda_CURATE is a set of Reaper scripts to help you rate, organize, and categorize your sounds quickly and easily.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 : dda_CURATE is a set of Reaper scripts to help you rate, organize, and categorize your sounds quickly and easily.\par}
 {\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Rate your sounds using a color-coding system to quickly determine which ones you prefer and organize them together\par}
 {\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Easily move sounds to child tracks to keep similar sounds together\par}
 {\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Add unique description metadata to individual sounds as well as project metadata to all sounds in your collection\par}
