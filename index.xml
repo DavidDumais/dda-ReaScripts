@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="dda-ReaScripts" commit="af4bcebd8d1ad365a7942cbd1c0d5beb0c324e42">
+<index version="1" name="dda-ReaScripts" commit="5d05b4843bf74e4525b8349c9e780afd8670c8a1">
   <category name="CURATE">
     <reapack name="dda_CURATE" type="script" desc="dda_CURATE">
       <metadata>
@@ -218,6 +218,120 @@
       </metadata>
       <version name="1.0.0" author=": David Dumais" time="2024-05-21T14:45:52Z">
         <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/af4bcebd8d1ad365a7942cbd1c0d5beb0c324e42/dda_curate/Categorization%20Scripts/dda_CATEGORIZATION%20-%20Reposition%20items%20even%20across%20multiple%20tracks%20-%20user%20defined%20length.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="dda_curate/Metadata Scripts">
+    <reapack name="dda_METADATA - Add description metadata to selected item notes.lua" type="script" desc=": dda_METADATA - Add description metadata to selected item notes">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Prompts user for desription text for selected items. Inserts user text as notes to selected items.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T14:52:08Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/5d05b4843bf74e4525b8349c9e780afd8670c8a1/dda_curate/Metadata%20Scripts/dda_METADATA%20-%20Add%20description%20metadata%20to%20selected%20item%20notes.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_METADATA - Add project artist metadata region to selected items.lua" type="script" desc=": dda_METADATA - Add project artist metadata region to selected items">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Adds a single region around all selected items and renames the region to user defined text. This region will be used to fill the artist metadata when exporting.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T14:52:08Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/5d05b4843bf74e4525b8349c9e780afd8670c8a1/dda_curate/Metadata%20Scripts/dda_METADATA%20-%20Add%20project%20artist%20metadata%20region%20to%20selected%20items.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_METADATA - Add project comments or notes metadata region to selected items.lua" type="script" desc=": dda_METADATA - Add project comments or notes metadata region to selected items">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Adds a single region around all selected items and renames the region to user defined text. This region will be used to fill the comment metadata when exporting.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T14:52:08Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/5d05b4843bf74e4525b8349c9e780afd8670c8a1/dda_curate/Metadata%20Scripts/dda_METADATA%20-%20Add%20project%20comments%20or%20notes%20metadata%20region%20to%20selected%20items.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_METADATA - Add project copyright metadata region to selected items.lua" type="script" desc=": dda_METADATA - Add project copyright metadata region to selected items">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Adds a single region around all selected items and renames the region to user defined text. This region will be used to fill the copyright message and copyright holder metadata when exporting.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T14:52:08Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/5d05b4843bf74e4525b8349c9e780afd8670c8a1/dda_curate/Metadata%20Scripts/dda_METADATA%20-%20Add%20project%20copyright%20metadata%20region%20to%20selected%20items.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_METADATA - Add project metadata regions (all-in-one).lua" type="script" desc=": dda_METADATA - Add project metadata regions (all-in-one)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Adds a single region for each of the following: project name, artist, publisher, comments/notes, copyright. These regions will be used to fill metadata when exporting.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T14:52:08Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/5d05b4843bf74e4525b8349c9e780afd8670c8a1/dda_curate/Metadata%20Scripts/dda_METADATA%20-%20Add%20project%20metadata%20regions%20(all-in-one).lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_METADATA - Add project name metadata region to selected items.lua" type="script" desc=": dda_METADATA - Add project name metadata region to selected items">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Adds a single region around all selected items and renames the region to user defined text. This region will be used to fill the project originator metadata when exporting.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T14:52:08Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/5d05b4843bf74e4525b8349c9e780afd8670c8a1/dda_curate/Metadata%20Scripts/dda_METADATA%20-%20Add%20project%20name%20metadata%20region%20to%20selected%20items.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_METADATA - Add project publisher metadata region to selected items.lua" type="script" desc=": dda_METADATA - Add project publisher metadata region to selected items">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Adds a single region around all selected items and renames the region to user defined text. This region will be used to fill the publisher metadata when exporting.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T14:52:08Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/5d05b4843bf74e4525b8349c9e780afd8670c8a1/dda_curate/Metadata%20Scripts/dda_METADATA%20-%20Add%20project%20publisher%20metadata%20region%20to%20selected%20items.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_METADATA - Create individual regions for selected items and rename region using item notes.lua" type="script" desc=": dda_METADATA - Create individual regions for selected items and rename region using item notes">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Creates individual regions for all selected items and renames each region using respective items notes. BEst used for description metadata.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T14:52:08Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/5d05b4843bf74e4525b8349c9e780afd8670c8a1/dda_curate/Metadata%20Scripts/dda_METADATA%20-%20Create%20individual%20regions%20for%20selected%20items%20and%20rename%20region%20using%20item%20notes.lua</source>
       </version>
     </reapack>
   </category>
