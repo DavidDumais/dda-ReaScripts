@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="dda-ReaScripts" commit="6406b7701dcbede9c29f90ea1a0529a58fc3159c">
+<index version="1" name="dda-ReaScripts" commit="7e27c7b640a949a58c1656677455226fddb55a5a">
   <category name="CURATE">
     <reapack name="dda_CURATE" type="script" desc="dda_CURATE">
       <metadata>
@@ -20,6 +20,36 @@
       </metadata>
       <version name="1.0.0" time="2024-05-20T20:23:36Z">
         <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/235be5c031001d2cda8978c34e76b18ee5a463d4/dda_curate/Misc%20Scripts/dda_CURATE.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="dda_curate/Categorization Scripts">
+    <reapack name="dda_CATEGORIZATION - Add text to selected item notes.lua" type="script" desc=": dda_CATEGORIZATION - Add text to selected item notes">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : prompts user for text and inserts text in selected item notes\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T14:29:10Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/7e27c7b640a949a58c1656677455226fddb55a5a/dda_curate/Categorization%20Scripts/dda_CATEGORIZATION%20-%20Add%20text%20to%20selected%20item%20notes.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_CATEGORIZATION - Clear notes from all selected items.lua" type="script" desc=": dda_CATEGORIZATION - Clear notes from all selected items">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : removes all notes from all selected items\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T14:29:10Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/7e27c7b640a949a58c1656677455226fddb55a5a/dda_curate/Categorization%20Scripts/dda_CATEGORIZATION%20-%20Clear%20notes%20from%20all%20selected%20items.lua</source>
       </version>
     </reapack>
   </category>
