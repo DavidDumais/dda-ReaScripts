@@ -1,7 +1,7 @@
--- @noindex
--- ReaScript Name:dda_CATEGORIZATION - Add text to selected item notes
--- description: prompts user for text and inserts text in selected item notes
--- author: David Dumais
+-- @version 1.0.0
+-- @description: dda_CATEGORIZATION - Add text to selected item notes
+-- @about: prompts user for text and inserts text in selected item notes
+-- @author: David Dumais
 -- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
 
 --SCRIPT--
