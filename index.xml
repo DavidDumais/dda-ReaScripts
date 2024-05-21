@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="dda-ReaScripts" author="David Dumais" commit="396c58d0683b172aee91575e247e0e7dc6d52c00">
+<index version="1" name="dda-ReaScripts" author="David Dumais" commit="099713022848d93edc8cfe3ece2126b4820bca00">
   <category name="CURATE">
     <reapack name="dda_CURATE" type="script" desc="dda_CURATE">
       <metadata>
