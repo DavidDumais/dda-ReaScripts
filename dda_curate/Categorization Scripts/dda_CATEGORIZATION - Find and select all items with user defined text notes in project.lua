@@ -1,10 +1,10 @@
--- @noindex
--- ReaScript Name: dda_CATEGORIZATION - Find and select all items with user defined text notes in project
--- description: Prompts user for text, then finds and selects all items in the project whose notes match the user defined text.
--- author: David Dumais
+-- @version 1.0.0
+-- @description: dda_CATEGORIZATION - Find and select all items with user defined text notes in project
+-- @about: Prompts user for text, then finds and selects all items in the project whose notes match the user defined text.
+-- @author: David Dumais
 -- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
 
---SCRIPT—
+--SCRIPT--
 
 -- Function to run a Reaper action by its command ID
 function runActionByID(actionID)

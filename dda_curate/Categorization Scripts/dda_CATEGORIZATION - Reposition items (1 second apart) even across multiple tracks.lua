@@ -1,10 +1,10 @@
--- @noindex
--- ReaScript Name: dda_CATEGORIZATION - Reposition items (1 second apart) even across multiple tracks
--- description: Repositions all selected items to be 1 second apart from each other even if across multiple tracks 
--- author: David Dumais
+-- @version 1.0.0
+-- @description: dda_CATEGORIZATION - Reposition items (1 second apart) even across multiple tracks
+-- @about: Repositions all selected items to be 1 second apart from each other even if across multiple tracks
+-- @author: David Dumais
 -- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
 
---SCRIPT—
+--SCRIPT--
 
 -- Table to store initial positions of selected items
 local initialPositions = {}

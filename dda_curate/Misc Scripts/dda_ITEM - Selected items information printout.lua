@@ -1,8 +1,7 @@
--- @Version 1.0.0
--- @about:
--- ReaScript Name: dda_ITEM - Selected items information printout
--- @Description: Prints out various information related to the selected items in project
--- @Author: David Dumais
+-- @version 1.0.0
+-- @description: dda_ITEM - Selected items information printout
+-- @about: Prints out various information related to the selected items in project
+-- @author: David Dumais
 -- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
 
 --SCRIPT--

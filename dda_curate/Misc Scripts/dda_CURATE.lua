@@ -15,7 +15,7 @@
 
 @author: David Dumais
 
-@Links:
+@links:
   Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
   
   --]]
