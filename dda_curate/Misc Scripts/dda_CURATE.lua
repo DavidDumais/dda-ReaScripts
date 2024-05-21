@@ -1,6 +1,6 @@
 --[[ 
+@Version 1.0.0
 @Description: dda_CURATE
-@Version 1.0.1
 @About:
   dda_CURATE – Instant sound curation for Reaper.
 

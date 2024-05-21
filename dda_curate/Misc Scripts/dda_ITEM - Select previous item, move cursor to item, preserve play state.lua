@@ -1,13 +1,11 @@
--- @Description: Selects the previous item to the left of the cursor on the selected track. It then moves the cursor to the start of that item all while preserving the play state.
--- @Version 1.0.1
+-- @Version 1.0.0
 -- @about:
---dda_CURATE – Instant sound curation for Reaper.
 -- ReaScript Name: dda_ITEM - Select previous item, move cursor to item, preserve play state
--- description: 
+-- @Description: Selects the previous item to the left of the cursor on the selected track. It then moves the cursor to the start of that item all while preserving the play state.
 -- @Author: David Dumais
 -- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
 
---SCRIPT�
+--SCRIPT--
 
 -- Store the current play state and cursor position
 local playState = reaper.GetPlayState()
