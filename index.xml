@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="dda-ReaScripts" commit="97eaae4f6d9ecfe72beec2c05f29fc3dc04fddf8">
+<index version="1" name="dda-ReaScripts" author="David Dumais" commit="97eaae4f6d9ecfe72beec2c05f29fc3dc04fddf8">
   <category name="CURATE">
     <reapack name="dda_CURATE" type="script" desc="dda_CURATE">
       <metadata>
@@ -316,13 +316,13 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0.0" author=": David Dumais" time="2024-05-21T14:52:08Z">
+      <version name="1.0.0" author="David Dumais" time="2024-05-21T14:52:08Z">
         <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/5d05b4843bf74e4525b8349c9e780afd8670c8a1/dda_curate/Metadata%20Scripts/dda_METADATA%20-%20Create%20individual%20regions%20for%20selected%20items%20and%20rename%20region%20using%20item%20notes.lua</source>
       </version>
     </reapack>
   </category>
-  <category name="dda_curate/Misc Scripts">
-    <reapack name="dda_CURATE.lua" type="script" desc=": dda_CURATE – Instant sound curation for Reaper.">
+  <category name="CURATE">
+    <reapack name="dda_CURATE.lua" type="script" desc=":dda_CURATE – Instant sound curation for Reaper.">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
