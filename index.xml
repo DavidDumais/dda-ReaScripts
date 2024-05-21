@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="dda-ReaScripts" commit="7ba7b49fc6280b14620542a8c08eb44f907c7bdd">
+<index version="1" name="dda-ReaScripts" commit="76b989f38c17ffcc3d8b9838234be20c5f54d987">
   <category name="CURATE">
     <reapack name="dda_CURATE" type="script" desc="dda_CURATE">
       <metadata>
@@ -176,20 +176,6 @@
       </metadata>
       <version name="1.0.0" author=": David Dumais" time="2024-05-21T14:45:52Z">
         <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/af4bcebd8d1ad365a7942cbd1c0d5beb0c324e42/dda_curate/Categorization%20Scripts/dda_CATEGORIZATION%20-%20Reorder%20Selected%20Items%20on%20a%20track%20based%20on%20item%20length%20-%20shortest%20to%20longest%20(1%20second%20apart).lua</source>
-      </version>
-    </reapack>
-    <reapack name="dda_CATEGORIZATION - Reorder Selected Items on a track based on item length - shortest to longest.lua" type="script" desc=": dda_CATEGORIZATION - Reorder Selected Items on a track based on item length - shortest to longest (1 second apart)">
-      <metadata>
-        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
-{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
-\widowctrl\hyphauto
-
-{\pard \ql \f0 \sa180 \li0 \fi0 : Repositions selected items on a track from the shortest to the longest item. Items are seperated from each other by 1 second.\par}
-}
-]]></description>
-      </metadata>
-      <version name="1.0.0" author=": David Dumais" time="2024-05-21T14:45:52Z">
-        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/af4bcebd8d1ad365a7942cbd1c0d5beb0c324e42/dda_curate/Categorization%20Scripts/dda_CATEGORIZATION%20-%20Reorder%20Selected%20Items%20on%20a%20track%20based%20on%20item%20length%20-%20shortest%20to%20longest.lua</source>
       </version>
     </reapack>
     <reapack name="dda_CATEGORIZATION - Reposition items (1 second apart) even across multiple tracks.lua" type="script" desc=": dda_CATEGORIZATION - Reposition items (1 second apart) even across multiple tracks">
