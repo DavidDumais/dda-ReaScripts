@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="dda-ReaScripts" commit="76b989f38c17ffcc3d8b9838234be20c5f54d987">
+<index version="1" name="dda-ReaScripts" commit="7d74d0d2609f388d6cc1d9fac1b8ff7f7c38122c">
   <category name="CURATE">
     <reapack name="dda_CURATE" type="script" desc="dda_CURATE">
       <metadata>
@@ -322,29 +322,6 @@
     </reapack>
   </category>
   <category name="dda_curate/Misc Scripts">
-    <reapack name="dda_CURATE.lua" type="script" desc=": dda_CURATE – Instant sound curation for Reaper.">
-      <metadata>
-        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
-{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
-\widowctrl\hyphauto
-
-{\pard \ql \f0 \sa180 \li0 \fi0 : dda_CURATE is a set of Reaper scripts to help you rate, organize, and categorize your sounds quickly and easily.\par}
-{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Rate your sounds using a color-coding system to quickly determine which ones you prefer and organize them together\par}
-{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Easily move sounds to child tracks to keep similar sounds together\par}
-{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Add unique description metadata to individual sounds as well as project metadata to all sounds in your collection\par}
-{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Reorder your sounds based on different variables including item length or rating to keep your project neat and tidy\par}
-{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Printout all project sound information in one easy-to-read, easy-to-copy-paste window\par}
-{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab And more!\sa180\par}
-}
-]]></description>
-      </metadata>
-      <version name="1.0.0" time="2024-05-20T20:40:26Z">
-        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f24995fe869a0fd75b93f2c4008be3ecdcd4c231/dda_curate/Misc%20Scripts/dda_CURATE.lua</source>
-      </version>
-      <version name="1.0.1" time="2024-05-20T21:26:23Z">
-        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/d3a27bb0646272a392dab13f705caba93180cf5a/dda_curate/Misc%20Scripts/dda_CURATE.lua</source>
-      </version>
-    </reapack>
     <reapack name="dda_ITEM - Select next item, move cursor to item, preserve play state.lua" type="script" desc=": dda_ITEM - Select next item, move cursor to item, preserve play state">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
