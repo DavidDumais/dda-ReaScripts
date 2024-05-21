@@ -1,10 +1,10 @@
--- @noindex
--- ReaScript Name: dda_METADATA - Add description metadata to selected item notes
--- description: Prompts user for desription text for selected items. Inserts user text as notes to selected items.
--- author: David Dumais
+-- @version 1.0.0
+-- @description: dda_METADATA - Add description metadata to selected item notes
+-- @about: Prompts user for desription text for selected items. Inserts user text as notes to selected items.
+-- @author: David Dumais
 -- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
 
---SCRIPT—
+--SCRIPT--
 
 -- Function to add text to the notes of a specific item
 function addTextToItemNotes(item, newText)

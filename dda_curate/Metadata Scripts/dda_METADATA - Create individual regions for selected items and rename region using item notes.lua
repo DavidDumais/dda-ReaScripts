@@ -1,10 +1,10 @@
--- @noindex
--- ReaScript Name: dda_METADATA - Create individual regions for selected items and rename region using item notes
--- description: Creates individual regions for all selected items and renames each region using respective items notes. BEst used for description metadata.
--- author: David Dumais
+-- @version 1.0.0
+-- @description: dda_METADATA - Create individual regions for selected items and rename region using item notes
+-- @about: Creates individual regions for all selected items and renames each region using respective items notes. BEst used for description metadata.
+-- @author: David Dumais
 -- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
 
---SCRIPT—
+--SCRIPT--
 
 -- Function to create regions around selected items
 function createRegionsAroundItems()

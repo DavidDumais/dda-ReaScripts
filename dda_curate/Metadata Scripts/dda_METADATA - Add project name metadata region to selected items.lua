@@ -1,10 +1,10 @@
--- @noindex
--- ReaScript Name: dda_METADATA - Add project name metadata region to selected items
--- description: Adds a single region around all selected items and renames the region to user defined text. This region will be used to fill the project originator metadata when exporting.
--- author: David Dumais
+-- @version 1.0.0
+-- @description: dda_METADATA - Add project name metadata region to selected items
+-- @about: Adds a single region around all selected items and renames the region to user defined text. This region will be used to fill the project originator metadata when exporting.
+-- @author: David Dumais
 -- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
 
---SCRIPT—
+--SCRIPT--
 
 -- Function to create a single region around all selected items and rename it based on user input with 'artist=' prepended
 function createSingleRegionAndRename()
