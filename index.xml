@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="dda-ReaScripts" commit="5d05b4843bf74e4525b8349c9e780afd8670c8a1">
+<index version="1" name="dda-ReaScripts" commit="f1612fe5a23634ea54851f10c14cf81c61569d8a">
   <category name="CURATE">
     <reapack name="dda_CURATE" type="script" desc="dda_CURATE">
       <metadata>
@@ -403,6 +403,498 @@
       </metadata>
       <version name="1.0.0" author=": David Dumais" time="2024-05-21T14:04:41Z">
         <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/6406b7701dcbede9c29f90ea1a0529a58fc3159c/dda_curate/Misc%20Scripts/dda_ITEM%20-%20Selected%20items%20information%20printout.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="dda_curate/Rating Scripts">
+    <reapack name="dda_RATING - Change rating colors.lua" type="script" desc=": dda_RATING - Change rating colors">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Allows user to change rating colors that will be used to color, select, and sort items using other dda_RATING scripts\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Change%20rating%20colors.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Order selected grouped items by rating (high to low).lua" type="script" desc=": dda_RATING - Order selected grouped items by rating (high to low)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Repositions (linked) groups of items by their rating color (1 second apart) from the highest rating color to the lowest rating color.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Order%20selected%20grouped%20items%20by%20rating%20(high%20to%20low).lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Order selected grouped items by rating (low to high).lua" type="script" desc=": dda_RATING - Order selected grouped items by rating (low to high)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Repositions (linked) groups of items by their rating color (1 second apart) from the lowest rating color to the highest rating color.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Order%20selected%20grouped%20items%20by%20rating%20(low%20to%20high).lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Order selected items on track based on rating (high to low).lua" type="script" desc=": dda_RATING - Order selected items on track based on rating (high to low)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Repositions selected items on track by their rating color (1 second apart) from the highest rating color to the lowest rating color.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Order%20selected%20items%20on%20track%20based%20on%20rating%20(high%20to%20low).lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Order selected items on track based on rating (low to high).lua" type="script" desc=": dda_RATING - Order selected items on track based on rating (low to high)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Repositions selected items on track by their rating color (1 second apart) from the lowest rating color to the highest rating color.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Order%20selected%20items%20on%20track%20based%20on%20rating%20(low%20to%20high).lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Select all #1 color-rated items in project.lua" type="script" desc=": dda_RATING - Select all #1 color-rated items in project">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Selects all items in project that are colored with the color rating #1. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Select%20all%20%231%20color-rated%20items%20in%20project.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Select all #1 color-rated items on selected tracks only.lua" type="script" desc=": dda_RATING - Select all #1 color-rated items on selected tracks only">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Selects all items on selected tracks that are colored with the color rating #1. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Select%20all%20%231%20color-rated%20items%20on%20selected%20tracks%20only.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Select all #1,2 color-rated items in project.lua" type="script" desc=": dda_RATING - Select all #1,2 color-rated items in project">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Selects all items in project that are colored with the color rating #1 or #2. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Select%20all%20%231,2%20color-rated%20items%20in%20project.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Select all #1,2 color-rated items on selected tracks only.lua" type="script" desc=": dda_RATING - Select all #1,2 color-rated items on selected tracks only">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Selects all items on selected tracks that are colored with the color rating #1 or #2. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Select%20all%20%231,2%20color-rated%20items%20on%20selected%20tracks%20only.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Select all #1,2,3 color-rated items in project.lua" type="script" desc=": dda_RATING - Select all #1,2,3 color-rated items in project">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Selects all items in project that are colored with the color rating #1, #2, or #3. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Select%20all%20%231,2,3%20color-rated%20items%20in%20project.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Select all #1,2,3 color-rated items on selected tracks only.lua" type="script" desc=": dda_RATING - Select all #1,2,3 color-rated items on selected tracks only">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Selects all items on selected tracks that are colored with the color rating #1, #2, or #3. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Select%20all%20%231,2,3%20color-rated%20items%20on%20selected%20tracks%20only.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Select all #1,2,3,4 color-rated items in project.lua" type="script" desc=": dda_RATING - Select all #1,2,3,4 color-rated items in project">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Selects all items in project that are colored with the color rating #1, #2, #3, or #4. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Select%20all%20%231,2,3,4%20color-rated%20items%20in%20project.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Select all #1,2,3,4 color-rated items on selected tracks only.lua" type="script" desc=": dda_RATING - Select all #1,2,3,4 color-rated items on selected tracks only">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Selects all items on selected tracks that are colored with the color rating #1, #2, #3, or #4. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Select%20all%20%231,2,3,4%20color-rated%20items%20on%20selected%20tracks%20only.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Select all #1,2,3,4,5 color-rated items in project.lua" type="script" desc=": dda_RATING - Select all #1,2,3,4,5 color-rated items in project">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Selects all items in project that are colored with the color rating #1, #2, #3, #4, or #5. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Select%20all%20%231,2,3,4,5%20color-rated%20items%20in%20project.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Select all #1,2,3,4,5 color-rated items on selected tracks only.lua" type="script" desc=": dda_RATING - Select all #1,2,3,4,5 color-rated items on selected tracks only">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Selects all items on selected tracks that are colored with the color rating #1, #2, #3, #4, or #5. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Select%20all%20%231,2,3,4,5%20color-rated%20items%20on%20selected%20tracks%20only.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Select all #2 color-rated items in project.lua" type="script" desc=": dda_RATING - Select all #2 color-rated items in project">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Selects all items in project that are colored with the color rating #2. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Select%20all%20%232%20color-rated%20items%20in%20project.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Select all #2 color-rated items on selected tracks only.lua" type="script" desc=": dda_RATING - Select all #2 color-rated items on selected tracks only">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Selects all items on selected tracks that are colored with the color rating #2. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Select%20all%20%232%20color-rated%20items%20on%20selected%20tracks%20only.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Select all #2,3,4,5 color-rated items in project.lua" type="script" desc=": dda_RATING - Select all #2,3,4,5 color-rated items in project">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Selects all items in project that are colored with the color rating #2, #3, #4, or #5. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Select%20all%20%232,3,4,5%20color-rated%20items%20in%20project.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Select all #2,3,4,5 color-rated items on selected tracks only.lua" type="script" desc=": dda_RATING - Select all #2,3,4,5 color-rated items on selected tracks only">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Selects all items on selected tracks that are colored with the color rating #2, #3, #4, or #5. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Select%20all%20%232,3,4,5%20color-rated%20items%20on%20selected%20tracks%20only.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Select all #3 color-rated items in project.lua" type="script" desc=": dda_RATING - Select all #3 color-rated items in project">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Selects all items in project that are colored with the color rating #3. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Select%20all%20%233%20color-rated%20items%20in%20project.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Select all #3 color-rated items on selected tracks only.lua" type="script" desc=": dda_RATING - Select all #3 color-rated items on selected tracks only">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Selects all items on selected tracks that are colored with the color rating #3. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Select%20all%20%233%20color-rated%20items%20on%20selected%20tracks%20only.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Select all #3,4,5 color-rated items in project.lua" type="script" desc=": dda_RATING - Select all #3,4,5 color-rated items in project">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Selects all items in project that are colored with the color rating #3, #4, or #5. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Select%20all%20%233,4,5%20color-rated%20items%20in%20project.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Select all #3,4,5 color-rated items on selected tracks only.lua" type="script" desc=": dda_RATING - Select all #3,4,5 color-rated items on selected tracks only">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Selects all items on selected tracks that are colored with the color rating #3, #4, or #5. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Select%20all%20%233,4,5%20color-rated%20items%20on%20selected%20tracks%20only.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Select all #4 color-rated items in project.lua" type="script" desc=": dda_RATING - Select all #4 color-rated items in project">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Selects all items in project that are colored with the color rating #4. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Select%20all%20%234%20color-rated%20items%20in%20project.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Select all #4 color-rated items on selected tracks only.lua" type="script" desc=": dda_RATING - Select all #4 color-rated items on selected tracks only">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Selects all items on selected tracks that are colored with the color rating #4. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Select%20all%20%234%20color-rated%20items%20on%20selected%20tracks%20only.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Select all #4,5 color-rated items in project.lua" type="script" desc=": dda_RATING - Select all #4,5 color-rated items in project">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Selects all items in project that are colored with the color rating #4 or #5. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Select%20all%20%234,5%20color-rated%20items%20in%20project.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Select all #4,5 color-rated items on selected tracks only.lua" type="script" desc=": dda_RATING - Select all #4,5 color-rated items on selected tracks only">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Selects all items on selected tracks that are colored with the color rating #4 or #5. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Select%20all%20%234,5%20color-rated%20items%20on%20selected%20tracks%20only.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Select all #5 color-rated items in project.lua" type="script" desc=": dda_RATING - Select all #5 color-rated items in project">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Selects all items in project that are colored with the color rating #5. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Select%20all%20%235%20color-rated%20items%20in%20project.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Select all #5 color-rated items on selected tracks only.lua" type="script" desc=": dda_RATING - Select all #5 color-rated items on selected tracks only">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Selects all items on selected tracks that are colored with the color rating #5. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Select%20all%20%235%20color-rated%20items%20on%20selected%20tracks%20only.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Set selected items to color rating #1.lua" type="script" desc=": dda_RATING - Set selected items to color rating #1">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Changes the selected items color to the color set for rating color #1. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Set%20selected%20items%20to%20color%20rating%20%231.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Set selected items to color rating #2.lua" type="script" desc=": dda_RATING - Set selected items to color rating #2">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Changes the selected items color to the color set for rating color #2. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Set%20selected%20items%20to%20color%20rating%20%232.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Set selected items to color rating #3.lua" type="script" desc=": dda_RATING - Set selected items to color rating #3">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Changes the selected items color to the color set for rating color #3. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Set%20selected%20items%20to%20color%20rating%20%233.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Set selected items to color rating #4.lua" type="script" desc=": dda_RATING - Set selected items to color rating #4">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Changes the selected items color to the color set for rating color #4. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Set%20selected%20items%20to%20color%20rating%20%234.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Set selected items to color rating #5.lua" type="script" desc=": dda_RATING - Set selected items to color rating #5">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Changes the selected items color to the color set for rating color #5. Run the following script to set colors: dda_RATING - Show and change rating colors.lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Set%20selected%20items%20to%20color%20rating%20%235.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dda_RATING - Show and change rating colors.lua" type="script" desc=": dda_RATING - Show and change rating colors">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 : Allows user to see as well as change rating colors that will be used to color, select, and sort items using other dda_RATING scripts\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author=": David Dumais" time="2024-05-21T15:17:37Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/f1612fe5a23634ea54851f10c14cf81c61569d8a/dda_curate/Rating%20Scripts/dda_RATING%20-%20Show%20and%20change%20rating%20colors.lua</source>
       </version>
     </reapack>
   </category>
