@@ -1,7 +1,7 @@
 -- @version 1.0.0
 -- @description: dda_RATING - Set selected items to color rating #1
 -- @about: Changes the selected items color to the color set for rating color #1. Run the following script to set colors: dda_RATING - Show and change rating colors.lua
--- @author: David Dumais
+-- @author David Dumais
 -- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
 
 --SCRIPT--

@@ -1,7 +1,7 @@
 -- @version 1.0.0
 -- @description: dda_RATING - Order selected grouped items by rating (high to low)
 -- @about: Repositions (linked) groups of items by their rating color (1 second apart) from the highest rating color to the lowest rating color.
--- @author: David Dumais
+-- @author David Dumais
 -- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
 
 --SCRIPT--

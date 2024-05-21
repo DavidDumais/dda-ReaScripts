@@ -11,7 +11,7 @@
     -  Printout all project sound information in one easy-to-read, easy-to-copy-paste window
     -  And more!
 
-@author: David Dumais
+@author David Dumais
 
 @links:
   Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE

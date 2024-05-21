@@ -1,7 +1,7 @@
 -- @version 1.0.0
 -- @description: dda_METADATA - Add description metadata to selected item notes
 -- @about: Prompts user for desription text for selected items. Inserts user text as notes to selected items.
--- @author: David Dumais
+-- @author David Dumais
 -- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
 
 --SCRIPT--

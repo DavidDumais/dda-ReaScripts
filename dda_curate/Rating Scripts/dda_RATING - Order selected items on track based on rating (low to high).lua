@@ -1,7 +1,7 @@
 -- @version 1.0.0
 -- @description: dda_RATING - Order selected items on track based on rating (low to high)
 -- @about: Repositions selected items on track by their rating color (1 second apart) from the lowest rating color to the highest rating color.
--- @author: David Dumais
+-- @author David Dumais
 -- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
 
 --SCRIPT--
