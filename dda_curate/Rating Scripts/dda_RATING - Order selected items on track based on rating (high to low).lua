@@ -1,3 +1,11 @@
+-- @version 1.0.0
+-- @description: dda_RATING - Order selected items on track based on rating (high to low)
+-- @about: Repositions selected items on track by their rating color (1 second apart) from the highest rating color to the lowest rating color.
+-- @author: David Dumais
+-- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
+
+--SCRIPT--
+
 -- Check if the custom_colors.txt file exists
 local custom_colors_file = reaper.GetResourcePath() .. "\\CustomColors\\custom_colors.txt"
 local file_exists = reaper.file_exists(custom_colors_file)

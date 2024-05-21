@@ -1,8 +1,10 @@
--- @noindex
--- ReaScript Name: dda_RATING - Set selected items to color rating #2
--- description: Changes the selected items color to the color set for rating color #2. Run the following script to set colors: dda_RATING - Show and change rating colors.lua
--- author: David Dumais
+-- @version 1.0.0
+-- @description: dda_RATING - Set selected items to color rating #2
+-- @about: Changes the selected items color to the color set for rating color #2. Run the following script to set colors: dda_RATING - Show and change rating colors.lua
+-- @author: David Dumais
 -- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
+
+--SCRIPT--
 
 -- Function to read RGB values from the custom_colors.txt file for the second custom color
 function readSecondCustomColors()

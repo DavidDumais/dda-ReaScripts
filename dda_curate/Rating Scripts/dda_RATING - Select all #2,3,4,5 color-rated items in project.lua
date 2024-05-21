@@ -1,10 +1,10 @@
--- @noindex
--- ReaScript Name: dda_RATING - Select all #2,3,4,5 color-rated items in project
--- description: Selects all items in project that are colored with the color rating #2, #3, #4, or #5. Run the following script to set colors: dda_RATING - Show and change rating colors.lua
--- author: David Dumais
+-- @version 1.0.0
+-- @description: dda_RATING - Select all #2,3,4,5 color-rated items in project
+-- @about: Selects all items in project that are colored with the color rating #2, #3, #4, or #5. Run the following script to set colors: dda_RATING - Show and change rating colors.lua
+-- @author: David Dumais
 -- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
 
---SCRIPT—
+--SCRIPT--
 
 -- Function to run a Reaper action by its command ID
 function runActionByID(actionID)

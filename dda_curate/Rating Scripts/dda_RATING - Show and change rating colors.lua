@@ -1,10 +1,10 @@
--- @noindex
--- ReaScript Name: dda_RATING - Show and change rating colors
--- description: Allows user to see as well as change rating colors that will be used to color, select, and sort items using other dda_RATING scripts
--- author: David Dumais
+-- @version 1.0.0
+-- @description: dda_RATING - Show and change rating colors
+-- @about: Allows user to see as well as change rating colors that will be used to color, select, and sort items using other dda_RATING scripts
+-- @author: David Dumais
 -- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
 
---SCRIPT—
+--SCRIPT--
 
 -- Function to restart the script
 local function restartScript()

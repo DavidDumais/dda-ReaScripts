@@ -1,10 +1,10 @@
--- @noindex
--- ReaScript Name: dda_RATING - Order selected grouped items by rating (low to high)
--- description: Repositions (linked) groups of items by their rating color (1 second apart) from the lowest rating color to the highest rating color.
--- author: David Dumais
+-- @version 1.0.0
+-- @description: dda_RATING - Order selected grouped items by rating (low to high)
+-- @about: Repositions (linked) groups of items by their rating color (1 second apart) from the lowest rating color to the highest rating color.
+-- @author: David Dumais
 -- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
 
---SCRIPT—
+--SCRIPT--
 
 -- Function to check if items are grouped and get their colors
 function getGroupInfo()
