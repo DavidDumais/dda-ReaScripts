@@ -1,5 +1,5 @@
 -- @version 1.0.0
--- @description: dda_CATEGORIZATION - Reposition items even across multiple tracks - user defined length
+-- @description dda_CATEGORIZATION - Reposition items even across multiple tracks - user defined length
 -- @about repositions all selected items (even across tracks) to be seperated from each other by user defined length
 -- @author David Dumais
 -- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE

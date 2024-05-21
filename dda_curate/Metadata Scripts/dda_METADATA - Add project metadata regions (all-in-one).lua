@@ -1,6 +1,6 @@
 -- @version 1.0.0
--- @description: dda_METADATA - Add project metadata regions (all-in-one)
--- @about: Adds a single region for each of the following: project name, artist, publisher, comments/notes, copyright. These regions will be used to fill metadata when exporting.
+-- @description dda_METADATA - Add project metadata regions (all-in-one)
+-- @about Adds a single region for each of the following: project name, artist, publisher, comments/notes, copyright. These regions will be used to fill metadata when exporting.
 -- @author David Dumais
 -- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
 

@@ -1,5 +1,5 @@
 -- @version 1.0.0
--- @description: dda_CATEGORIZATION - Find and select all items with user defined text notes on selected tracks
+-- @description dda_CATEGORIZATION - Find and select all items with user defined text notes on selected tracks
 -- @about Prompts user for text, then finds and selects all items on the selected track whose notes match the user defined text.
 -- @author David Dumais
 -- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE

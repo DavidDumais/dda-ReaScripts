@@ -1,6 +1,6 @@
 -- @version 1.0.0
--- @description: dda_METADATA - Add project copyright metadata region to selected items
--- @about: Adds a single region around all selected items and renames the region to user defined text. This region will be used to fill the copyright message and copyright holder metadata when exporting.
+-- @description dda_METADATA - Add project copyright metadata region to selected items
+-- @about Adds a single region around all selected items and renames the region to user defined text. This region will be used to fill the copyright message and copyright holder metadata when exporting.
 -- @author David Dumais
 -- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
 

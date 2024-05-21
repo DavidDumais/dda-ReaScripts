@@ -1,5 +1,5 @@
 -- @version 1.0.0
--- @description: dda_CATEGORIZATION - Move item(s) to a new child track of selected track
+-- @description dda_CATEGORIZATION - Move item(s) to a new child track of selected track
 -- @about Moves selected items to a new child track. The selected track becomes the parent track. User is prompted to rename newly created child track.
 -- @author David Dumais
 -- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
