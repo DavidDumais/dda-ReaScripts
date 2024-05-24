@@ -2,7 +2,7 @@
 -- @description dda_ITEM - Selected items information printout
 -- @about Prints out various information related to the selected items in project
 -- @author David Dumais
--- @package dda_CURATE
+-- @provides [main=main] dda_CURATE
 -- Store Page: https://daviddumaisaudio.gumroad.com/l/dda_CURATE
 
 --SCRIPT--
