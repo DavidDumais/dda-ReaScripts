@@ -2,7 +2,7 @@
 -- @description dda_CATEGORIZATION - Item group tracks become child of a new parent track
 -- @about Moves grouped items to a new parent track. Grouped item tracks become child tracks of newly created parent track.
 -- @author David Dumais
--- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
+-- Store Page: https://daviddumaisaudio.gumroad.com/l/dda_CURATE
 
 --SCRIPT--
 

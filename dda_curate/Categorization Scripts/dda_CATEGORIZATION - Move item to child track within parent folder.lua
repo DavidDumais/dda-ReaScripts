@@ -2,7 +2,7 @@
 -- @description dda_CATEGORIZATION - Move item to child track within parent folder
 -- @about Moves selected items to a child track with the parent folder track while keeping selected items positions
 -- @author David Dumais
--- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
+-- Store Page: https://daviddumaisaudio.gumroad.com/l/dda_CURATE
 
 --SCRIPT--
 

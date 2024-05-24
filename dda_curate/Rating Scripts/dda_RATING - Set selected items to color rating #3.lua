@@ -2,7 +2,7 @@
 -- @description dda_RATING - Set selected items to color rating #3
 -- @about Changes the selected items color to the color set for rating color #3. Run the following script to set colors: dda_RATING - Show and change rating colors.lua
 -- @author David Dumais
--- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
+-- Store Page: https://daviddumaisaudio.gumroad.com/l/dda_CURATE
 
 --SCRIPT--
 

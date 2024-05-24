@@ -2,7 +2,7 @@
 -- @description dda_CATEGORIZATION - Clear notes from all selected items
 -- @about removes all notes from all selected items
 -- @author David Dumais
--- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
+-- Store Page: https://daviddumaisaudio.gumroad.com/l/dda_CURATE
 
 --SCRIPT--
 

@@ -2,7 +2,7 @@
 -- @description dda_CATEGORIZATION - Reorder Selected Items on a track based on item length - shortest to longest
 -- @about Repositions selected items on a track from the shortest to the longest item. Items are seperated from each other by 1 second.
 -- @author David Dumais
--- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
+-- Store Page: https://daviddumaisaudio.gumroad.com/l/dda_CURATE
 
 --SCRIPT--
 

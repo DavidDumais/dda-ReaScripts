@@ -2,7 +2,7 @@
 -- @description dda_RATING - Select all #4 color-rated items in project
 -- @about Selects all items in project that are colored with the color rating #4. Run the following script to set colors: dda_RATING - Show and change rating colors.lua
 -- @author David Dumais
--- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
+-- Store Page: https://daviddumaisaudio.gumroad.com/l/dda_CURATE
 
 --SCRIPT--
 

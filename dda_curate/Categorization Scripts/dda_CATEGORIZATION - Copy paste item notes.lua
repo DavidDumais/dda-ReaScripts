@@ -2,7 +2,7 @@
 -- @description dda_CATEGORIZATION - Copy paste item notes
 -- @about copies item notes from a single item and pastes text to all selected items
 -- @author David Dumais
--- Store Page: https://daviddumaisaudio.gumroad.com/dda_CURATE
+-- Store Page: https://daviddumaisaudio.gumroad.com/l/dda_CURATE
 
 --SCRIPT--
 
