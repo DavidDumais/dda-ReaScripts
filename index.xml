@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="dda-ReaScripts" commit="b5b2b4cd00115e866e8c7f965996cfe7fdf972b2">
+<index version="1" name="dda-ReaScripts" commit="9aa63b1f57350c41c439c433a3b00dcb439a2340">
   <category name="dda_curate/Categorization Scripts">
     <reapack name="dda_CATEGORIZATION - Add text to selected item notes.lua" type="script" desc="dda_CATEGORIZATION - Add text to selected item notes">
       <metadata>
@@ -329,6 +329,9 @@
       </version>
       <version name="1.0.4" author="David Dumais" time="2024-05-24T19:41:42Z">
         <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/b5b2b4cd00115e866e8c7f965996cfe7fdf972b2/dda_curate/Misc%20Scripts/dda_CURATE.lua</source>
+      </version>
+      <version name="1.0.5" author="David Dumais" time="2024-05-24T19:52:52Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/9aa63b1f57350c41c439c433a3b00dcb439a2340/dda_curate/Misc%20Scripts/dda_CURATE.lua</source>
       </version>
     </reapack>
     <reapack name="dda_ITEM - Select next item, move cursor to item, preserve play state.lua" type="script" desc="dda_ITEM - Select next item, move cursor to item, preserve play state">
