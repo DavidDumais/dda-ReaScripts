@@ -1,4 +1,4 @@
-
+-- @version 1.0.1
 -- @description dda_ITEM - Selected items information printout
 -- @about Prints out various information related to the selected items in project
 -- @author David Dumais
