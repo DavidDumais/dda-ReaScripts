@@ -1,5 +1,5 @@
 --[[ 
-@version 1.0.6
+@version 1.0.7
 @author David Dumais
 @description dda_CURATE – Instant sound curation for Reaper.
 @about
@@ -24,6 +24,7 @@
   Misc Scripts/Selected items information printout.lua  
 
 @changelog
+  v1.0.7
   v1.0.6
   v1.0.5
   v1.0.4
