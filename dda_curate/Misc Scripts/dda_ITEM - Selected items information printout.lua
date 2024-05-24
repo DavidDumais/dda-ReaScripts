@@ -3,6 +3,7 @@
 -- @about Prints out various information related to the selected items in project
 -- @author David Dumais
 -- @provides [main=main] dda_CURATE
+-- @package dda_CURATE
 -- Store Page: https://daviddumaisaudio.gumroad.com/l/dda_CURATE
 
 --SCRIPT--
