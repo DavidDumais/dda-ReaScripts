@@ -2,7 +2,7 @@
 -- @description dda_ITEM - Select next item, move cursor to item, preserve play state
 -- @about Selects the next item to the right of the cursor on the selected track. It then moves the cursor to the start of that item all while preserving the play state.
 -- @author David Dumais
--- @provides [main=dda_CURATE.lua] dda_ITEM - Select next item, move cursor to item, preserve play state
+-- @provides [main=dda_CURATE.lua] Misc Scripts/dda_ITEM - Select next item, move cursor to item, preserve play state
 -- @package dda_CURATE
 -- Store Page: https://daviddumaisaudio.gumroad.com/l/dda_CURATE
 
