@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="dda-ReaScripts" commit="7d92ecaff7b3302f07a06eea9262f0c0020b99e8">
+<index version="1" name="dda-ReaScripts" commit="cd97bf3358e3c2fcf62c36265a428ad06e643630">
   <category name="dda_curate">
     <reapack name="reapack-index.txt" type="midinotenames" desc="dda_CURATE">
       <version name="1.0.0" author="David Dumais" time="2024-05-25T14:16:16Z">
         <source>https://github.com/DavidDumais/dda-ReaScripts/raw/7d92ecaff7b3302f07a06eea9262f0c0020b99e8/dda_curate/reapack-index.txt</source>
+      </version>
+      <version name="1.0.1" author="David Dumais" time="2024-05-25T14:25:20Z">
+        <source>https://github.com/DavidDumais/dda-ReaScripts/raw/cd97bf3358e3c2fcf62c36265a428ad06e643630/dda_curate/reapack-index.txt</source>
       </version>
     </reapack>
   </category>
