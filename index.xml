@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="dda-ReaScripts" commit="3b4704f11bf027df21140f696f99d3fbcc17a592">
+<index version="1" name="dda-ReaScripts" commit="cae2e08e167a8d7fbd148b5c9e3030e79acc6260">
   <category name="dda_curate/Categorization Scripts">
     <reapack name="dda_CATEGORIZATION - Add text to selected item notes.lua" type="script" desc="dda_CATEGORIZATION - Add text to selected item notes">
       <metadata>
@@ -13,6 +13,9 @@
       </metadata>
       <version name="1.0.0" author="David Dumais" time="2024-05-21T17:41:11Z">
         <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/3670b03c6896c46767d4040ed8b861fda52d567b/dda_curate/Categorization%20Scripts/dda_CATEGORIZATION%20-%20Add%20text%20to%20selected%20item%20notes.lua</source>
+      </version>
+      <version name="1.0.1" author="David Dumais" time="2024-05-25T04:31:24Z">
+        <source main="main">https://github.com/DavidDumais/dda-ReaScripts/raw/cae2e08e167a8d7fbd148b5c9e3030e79acc6260/dda_curate/Categorization%20Scripts/dda_CATEGORIZATION%20-%20Add%20text%20to%20selected%20item%20notes.lua</source>
       </version>
     </reapack>
     <reapack name="dda_CATEGORIZATION - Clear notes from all selected items.lua" type="script" desc="dda_CATEGORIZATION - Clear notes from all selected items">
