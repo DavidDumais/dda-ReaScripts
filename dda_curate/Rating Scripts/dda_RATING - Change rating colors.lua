@@ -1,4 +1,4 @@
--- @version 1.0.0
+-- @version 1.0.1
 -- @description dda_RATING - Change rating colors
 -- @about Allows user to change rating colors that will be used to color, select, and sort items using other dda_RATING scripts
 -- @author David Dumais

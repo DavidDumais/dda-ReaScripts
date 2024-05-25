@@ -1,4 +1,4 @@
--- @version 1.0.0
+-- @version 1.0.1
 -- @description dda_RATING - Select all #3 color-rated items on selected tracks only
 -- @about Selects all items on selected tracks that are colored with the color rating #3. Run the following script to set colors: dda_RATING - Show and change rating colors.lua
 -- @author David Dumais

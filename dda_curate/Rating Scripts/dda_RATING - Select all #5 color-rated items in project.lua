@@ -1,4 +1,4 @@
--- @version 1.0.0
+-- @version 1.0.1
 -- @description dda_RATING - Select all #5 color-rated items in project
 -- @about Selects all items in project that are colored with the color rating #5. Run the following script to set colors: dda_RATING - Show and change rating colors.lua
 -- @author David Dumais

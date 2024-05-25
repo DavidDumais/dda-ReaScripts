@@ -1,4 +1,4 @@
--- @version 1.0.0
+-- @version 1.0.1
 -- @description dda_CATEGORIZATION - Find and select all items with user defined text notes from selected items selection
 -- @about Prompts user for text, then finds and selects only items from the selected items whose notes match the user defined text.
 -- @author David Dumais

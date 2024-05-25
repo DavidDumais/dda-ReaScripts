@@ -1,4 +1,4 @@
--- @version 1.0.0
+-- @version 1.0.1
 -- @description dda_CATEGORIZATION - Reposition items (1 second apart) even across multiple tracks
 -- @about Repositions all selected items to be 1 second apart from each other even if across multiple tracks
 -- @author David Dumais

@@ -1,4 +1,4 @@
--- @version 1.0.0
+-- @version 1.0.1
 -- @description dda_CATEGORIZATION - Clear notes from all selected items
 -- @about removes all notes from all selected items
 -- @author David Dumais

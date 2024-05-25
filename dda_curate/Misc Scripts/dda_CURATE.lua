@@ -1,5 +1,5 @@
 --[[ 
--- @version 1.0.23
+-- @version 1.0.24
 -- @description dda_CURATE – Instant sound curation for Reaper.
 -- @author David Dumais
 -- @about

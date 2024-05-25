@@ -1,4 +1,4 @@
--- @version 1.0.0
+-- @version 1.0.1
 -- @description dda_METADATA - Create individual regions for selected items and rename region using item notes
 -- @about Creates individual regions for all selected items and renames each region using respective items notes. BEst used for description metadata.
 -- @author David Dumais

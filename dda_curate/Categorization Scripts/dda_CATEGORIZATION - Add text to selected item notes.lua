@@ -1,4 +1,4 @@
--- @version 1.0.1
+-- @version 1.0.2
 -- @description dda_CATEGORIZATION - Add text to selected item notes
 -- @about prompts user for text and inserts text in selected item notes
 -- @author David Dumais

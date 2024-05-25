@@ -1,4 +1,4 @@
--- @version 1.0.0
+-- @version 1.0.1
 -- @description dda_RATING - Set selected items to color rating #5
 -- @about Changes the selected items color to the color set for rating color #5. Run the following script to set colors: dda_RATING - Show and change rating colors.lua
 -- @author David Dumais

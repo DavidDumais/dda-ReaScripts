@@ -1,4 +1,4 @@
--- @version 1.0.0
+-- @version 1.0.1
 -- @description dda_METADATA - Add project publisher metadata region to selected items
 -- @about Adds a single region around all selected items and renames the region to user defined text. This region will be used to fill the publisher metadata when exporting.
 -- @author David Dumais
