@@ -1,5 +1,5 @@
 --[[ 
--- @version 1.0.20
+-- @version 1.0.21
 -- @description dda_CURATE – Instant sound curation for Reaper.
 -- @about
 --     dda_CURATE is a set of Reaper scripts to help you rate, organize, and categorize your sounds quickly and easily.
@@ -13,10 +13,10 @@
 -- @links https://daviddumaisaudio.gumroad.com/l/dda_CURATE
 -- @package dda_CURATE
 -- @provides 
---    Misc Scripts/*.lua
---    Metadata Scripts/*.lua
---    Categorization Scripts/*.lua
---    Rating Scripts/*.lua
+--    [sub] Categorization Scripts/*.lua
+--    [sub] Metadata Scripts/*.lua
+--    [sub] Misc Scripts/*.lua
+--    [sub] Rating Scripts/*.lua
 -- @changelog
 --   v1.0.7
 --   v1.0.6
