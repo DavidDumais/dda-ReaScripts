@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index version="1" name="dda-ReaScripts" commit="1c2977726dcfffe8f6e310effed39aff7ba3d0f6">
-  <category name="dda_curate/Categorization Scripts">
+  <category name="dda_curate">
     <reapack name="dda_CATEGORIZATION - Add text to selected item notes.lua" type="script" desc="dda_CATEGORIZATION - Add text to selected item notes">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
@@ -187,7 +187,7 @@
       </version>
     </reapack>
   </category>
-  <category name="dda_curate/Metadata Scripts">
+  <category name="dda_curate">
     <reapack name="dda_METADATA - Add description metadata to selected item notes.lua" type="script" desc="dda_METADATA - Add description metadata to selected item notes">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
@@ -301,7 +301,7 @@
       </version>
     </reapack>
   </category>
-  <category name="dda_curate/Misc Scripts">
+  <category name="dda_curate">
     <reapack name="dda_CURATE.lua" type="script" desc="dda_CURATE – Instant sound curation for Reaper.">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
@@ -386,7 +386,7 @@ v1.0.0
       </version>
     </reapack>
   </category>
-  <category name="dda_curate/Rating Scripts">
+  <category name="dda_curate">
     <reapack name="dda_RATING - Change rating colors.lua" type="script" desc="dda_RATING - Change rating colors">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
