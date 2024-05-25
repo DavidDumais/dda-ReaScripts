@@ -2,7 +2,7 @@
 -- @description dda_ITEM - Select previous item, move cursor to item, preserve play state
 -- @about Selects the previous item to the left of the cursor on the selected track. It then moves the cursor to the start of that item all while preserving the play state.
 -- @author David Dumais
--- @provides [main=dda_CURATE.lua] Misc Scripts/dda_ITEM - Select previous item, move cursor to item, preserve play state.lua
+-- @provides [main=dda_curate/Misc Scripts/dda_CURATE.lua] Misc Scripts/dda_ITEM - Select previous item, move cursor to item, preserve play state.lua
 -- @package dda_CURATE
 -- Store Page: https://daviddumaisaudio.gumroad.com/l/dda_CURATE
 
